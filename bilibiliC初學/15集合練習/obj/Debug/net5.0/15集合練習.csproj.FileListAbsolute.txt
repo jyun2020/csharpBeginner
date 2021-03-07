@@ -1,0 +1,16 @@
+C:\Users\jyun2\Desktop\bilibiliC初學\15集合練習\bin\Debug\net5.0\15集合練習.exe
+C:\Users\jyun2\Desktop\bilibiliC初學\15集合練習\bin\Debug\net5.0\15集合練習.deps.json
+C:\Users\jyun2\Desktop\bilibiliC初學\15集合練習\bin\Debug\net5.0\15集合練習.runtimeconfig.json
+C:\Users\jyun2\Desktop\bilibiliC初學\15集合練習\bin\Debug\net5.0\15集合練習.runtimeconfig.dev.json
+C:\Users\jyun2\Desktop\bilibiliC初學\15集合練習\bin\Debug\net5.0\15集合練習.dll
+C:\Users\jyun2\Desktop\bilibiliC初學\15集合練習\bin\Debug\net5.0\ref\15集合練習.dll
+C:\Users\jyun2\Desktop\bilibiliC初學\15集合練習\bin\Debug\net5.0\15集合練習.pdb
+C:\Users\jyun2\Desktop\bilibiliC初學\15集合練習\obj\Debug\net5.0\15集合練習.csprojAssemblyReference.cache
+C:\Users\jyun2\Desktop\bilibiliC初學\15集合練習\obj\Debug\net5.0\15集合練習.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyun2\Desktop\bilibiliC初學\15集合練習\obj\Debug\net5.0\15集合練習.AssemblyInfoInputs.cache
+C:\Users\jyun2\Desktop\bilibiliC初學\15集合練習\obj\Debug\net5.0\15集合練習.AssemblyInfo.cs
+C:\Users\jyun2\Desktop\bilibiliC初學\15集合練習\obj\Debug\net5.0\15集合練習.csproj.CoreCompileInputs.cache
+C:\Users\jyun2\Desktop\bilibiliC初學\15集合練習\obj\Debug\net5.0\15集合練習.dll
+C:\Users\jyun2\Desktop\bilibiliC初學\15集合練習\obj\Debug\net5.0\ref\15集合練習.dll
+C:\Users\jyun2\Desktop\bilibiliC初學\15集合練習\obj\Debug\net5.0\15集合練習.pdb
+C:\Users\jyun2\Desktop\bilibiliC初學\15集合練習\obj\Debug\net5.0\15集合練習.genruntimeconfig.cache

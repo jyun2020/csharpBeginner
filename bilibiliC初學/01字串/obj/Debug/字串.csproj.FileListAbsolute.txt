@@ -1,0 +1,6 @@
+C:\Users\ABC\source\repos\Object_oriented\字串\bin\Debug\字串.exe.config
+C:\Users\ABC\source\repos\Object_oriented\字串\bin\Debug\字串.exe
+C:\Users\ABC\source\repos\Object_oriented\字串\bin\Debug\字串.pdb
+C:\Users\ABC\source\repos\Object_oriented\字串\obj\Debug\字串.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\Object_oriented\字串\obj\Debug\字串.exe
+C:\Users\ABC\source\repos\Object_oriented\字串\obj\Debug\字串.pdb

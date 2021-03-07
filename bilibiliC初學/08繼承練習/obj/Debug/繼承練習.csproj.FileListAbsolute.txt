@@ -1,0 +1,7 @@
+F:\Csharp\CsherpBeginner\繼承練習\bin\Debug\繼承練習.exe.config
+F:\Csharp\CsherpBeginner\繼承練習\bin\Debug\繼承練習.exe
+F:\Csharp\CsherpBeginner\繼承練習\bin\Debug\繼承練習.pdb
+F:\Csharp\CsherpBeginner\繼承練習\obj\Debug\繼承練習.csprojAssemblyReference.cache
+F:\Csharp\CsherpBeginner\繼承練習\obj\Debug\繼承練習.csproj.CoreCompileInputs.cache
+F:\Csharp\CsherpBeginner\繼承練習\obj\Debug\繼承練習.exe
+F:\Csharp\CsherpBeginner\繼承練習\obj\Debug\繼承練習.pdb

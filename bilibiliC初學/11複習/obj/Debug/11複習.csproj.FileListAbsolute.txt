@@ -1,0 +1,14 @@
+F:\Csharp\CsherpBeginner\11複習\bin\Debug\11複習.exe.config
+F:\Csharp\CsherpBeginner\11複習\bin\Debug\11複習.exe
+F:\Csharp\CsherpBeginner\11複習\bin\Debug\11複習.pdb
+F:\Csharp\CsherpBeginner\11複習\obj\Debug\11複習.csprojAssemblyReference.cache
+F:\Csharp\CsherpBeginner\11複習\obj\Debug\11複習.csproj.CoreCompileInputs.cache
+F:\Csharp\CsherpBeginner\11複習\obj\Debug\11複習.exe
+F:\Csharp\CsherpBeginner\11複習\obj\Debug\11複習.pdb
+C:\Users\jyun2\Desktop\bilibiliC初學\11複習\obj\Debug\11複習.csprojAssemblyReference.cache
+C:\Users\jyun2\Desktop\bilibiliC初學\11複習\obj\Debug\11複習.csproj.CoreCompileInputs.cache
+C:\Users\jyun2\Desktop\bilibiliC初學\11複習\obj\Debug\11複習.exe
+C:\Users\jyun2\Desktop\bilibiliC初學\11複習\obj\Debug\11複習.pdb
+C:\Users\jyun2\Desktop\bilibiliC初學\11複習\bin\Debug\11複習.exe.config
+C:\Users\jyun2\Desktop\bilibiliC初學\11複習\bin\Debug\11複習.exe
+C:\Users\jyun2\Desktop\bilibiliC初學\11複習\bin\Debug\11複習.pdb

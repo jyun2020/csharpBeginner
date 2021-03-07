@@ -1,0 +1,7 @@
+F:\Csharp\CsherpBeginner\字串\bin\Debug\字串.exe.config
+F:\Csharp\CsherpBeginner\字串\bin\Debug\字串.exe
+F:\Csharp\CsherpBeginner\字串\bin\Debug\字串.pdb
+F:\Csharp\CsherpBeginner\字串\obj\Debug\01字串.csprojAssemblyReference.cache
+F:\Csharp\CsherpBeginner\字串\obj\Debug\01字串.csproj.CoreCompileInputs.cache
+F:\Csharp\CsherpBeginner\字串\obj\Debug\字串.exe
+F:\Csharp\CsherpBeginner\字串\obj\Debug\字串.pdb

@@ -1,0 +1,7 @@
+D:\Csherp\Object_oriented\繼承\bin\Debug\繼承.exe.config
+D:\Csherp\Object_oriented\繼承\bin\Debug\繼承.exe
+D:\Csherp\Object_oriented\繼承\bin\Debug\繼承.pdb
+D:\Csherp\Object_oriented\繼承\obj\Debug\繼承.csprojAssemblyReference.cache
+D:\Csherp\Object_oriented\繼承\obj\Debug\繼承.csproj.CoreCompileInputs.cache
+D:\Csherp\Object_oriented\繼承\obj\Debug\繼承.exe
+D:\Csherp\Object_oriented\繼承\obj\Debug\繼承.pdb

@@ -1,0 +1,7 @@
+F:\Csharp\CsherpBeginner\12類別轉換練習\bin\Debug\12類別轉換練習.exe.config
+F:\Csharp\CsherpBeginner\12類別轉換練習\bin\Debug\12類別轉換練習.exe
+F:\Csharp\CsherpBeginner\12類別轉換練習\bin\Debug\12類別轉換練習.pdb
+F:\Csharp\CsherpBeginner\12類別轉換練習\obj\Debug\12類別轉換練習.csprojAssemblyReference.cache
+F:\Csharp\CsherpBeginner\12類別轉換練習\obj\Debug\12類別轉換練習.csproj.CoreCompileInputs.cache
+F:\Csharp\CsherpBeginner\12類別轉換練習\obj\Debug\12類別轉換練習.exe
+F:\Csharp\CsherpBeginner\12類別轉換練習\obj\Debug\12類別轉換練習.pdb

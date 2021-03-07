@@ -1,0 +1,7 @@
+C:\Users\jyun2\Desktop\bilibiliC初學\集合\bin\Debug\集合.exe.config
+C:\Users\jyun2\Desktop\bilibiliC初學\集合\bin\Debug\集合.exe
+C:\Users\jyun2\Desktop\bilibiliC初學\集合\bin\Debug\集合.pdb
+C:\Users\jyun2\Desktop\bilibiliC初學\集合\obj\Debug\集合.csprojAssemblyReference.cache
+C:\Users\jyun2\Desktop\bilibiliC初學\集合\obj\Debug\集合.csproj.CoreCompileInputs.cache
+C:\Users\jyun2\Desktop\bilibiliC初學\集合\obj\Debug\集合.exe
+C:\Users\jyun2\Desktop\bilibiliC初學\集合\obj\Debug\集合.pdb

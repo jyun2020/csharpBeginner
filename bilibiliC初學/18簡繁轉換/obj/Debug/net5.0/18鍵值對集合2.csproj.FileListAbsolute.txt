@@ -1,0 +1,16 @@
+C:\Users\jyun2\Desktop\bilibiliC初學\18鍵值對集合2\bin\Debug\net5.0\18鍵值對集合2.exe
+C:\Users\jyun2\Desktop\bilibiliC初學\18鍵值對集合2\bin\Debug\net5.0\18鍵值對集合2.deps.json
+C:\Users\jyun2\Desktop\bilibiliC初學\18鍵值對集合2\bin\Debug\net5.0\18鍵值對集合2.runtimeconfig.json
+C:\Users\jyun2\Desktop\bilibiliC初學\18鍵值對集合2\bin\Debug\net5.0\18鍵值對集合2.runtimeconfig.dev.json
+C:\Users\jyun2\Desktop\bilibiliC初學\18鍵值對集合2\bin\Debug\net5.0\18鍵值對集合2.dll
+C:\Users\jyun2\Desktop\bilibiliC初學\18鍵值對集合2\bin\Debug\net5.0\ref\18鍵值對集合2.dll
+C:\Users\jyun2\Desktop\bilibiliC初學\18鍵值對集合2\bin\Debug\net5.0\18鍵值對集合2.pdb
+C:\Users\jyun2\Desktop\bilibiliC初學\18鍵值對集合2\obj\Debug\net5.0\18鍵值對集合2.csprojAssemblyReference.cache
+C:\Users\jyun2\Desktop\bilibiliC初學\18鍵值對集合2\obj\Debug\net5.0\18鍵值對集合2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyun2\Desktop\bilibiliC初學\18鍵值對集合2\obj\Debug\net5.0\18鍵值對集合2.AssemblyInfoInputs.cache
+C:\Users\jyun2\Desktop\bilibiliC初學\18鍵值對集合2\obj\Debug\net5.0\18鍵值對集合2.AssemblyInfo.cs
+C:\Users\jyun2\Desktop\bilibiliC初學\18鍵值對集合2\obj\Debug\net5.0\18鍵值對集合2.csproj.CoreCompileInputs.cache
+C:\Users\jyun2\Desktop\bilibiliC初學\18鍵值對集合2\obj\Debug\net5.0\18鍵值對集合2.dll
+C:\Users\jyun2\Desktop\bilibiliC初學\18鍵值對集合2\obj\Debug\net5.0\ref\18鍵值對集合2.dll
+C:\Users\jyun2\Desktop\bilibiliC初學\18鍵值對集合2\obj\Debug\net5.0\18鍵值對集合2.pdb
+C:\Users\jyun2\Desktop\bilibiliC初學\18鍵值對集合2\obj\Debug\net5.0\18鍵值對集合2.genruntimeconfig.cache

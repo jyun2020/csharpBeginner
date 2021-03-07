@@ -1,0 +1,16 @@
+C:\Users\jyun2\Desktop\bilibiliC初學\16集合練習和長度問題\bin\Debug\net5.0\16集合練習和長度問題.exe
+C:\Users\jyun2\Desktop\bilibiliC初學\16集合練習和長度問題\bin\Debug\net5.0\16集合練習和長度問題.deps.json
+C:\Users\jyun2\Desktop\bilibiliC初學\16集合練習和長度問題\bin\Debug\net5.0\16集合練習和長度問題.runtimeconfig.json
+C:\Users\jyun2\Desktop\bilibiliC初學\16集合練習和長度問題\bin\Debug\net5.0\16集合練習和長度問題.runtimeconfig.dev.json
+C:\Users\jyun2\Desktop\bilibiliC初學\16集合練習和長度問題\bin\Debug\net5.0\16集合練習和長度問題.dll
+C:\Users\jyun2\Desktop\bilibiliC初學\16集合練習和長度問題\bin\Debug\net5.0\ref\16集合練習和長度問題.dll
+C:\Users\jyun2\Desktop\bilibiliC初學\16集合練習和長度問題\bin\Debug\net5.0\16集合練習和長度問題.pdb
+C:\Users\jyun2\Desktop\bilibiliC初學\16集合練習和長度問題\obj\Debug\net5.0\16集合練習和長度問題.csprojAssemblyReference.cache
+C:\Users\jyun2\Desktop\bilibiliC初學\16集合練習和長度問題\obj\Debug\net5.0\16集合練習和長度問題.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyun2\Desktop\bilibiliC初學\16集合練習和長度問題\obj\Debug\net5.0\16集合練習和長度問題.AssemblyInfoInputs.cache
+C:\Users\jyun2\Desktop\bilibiliC初學\16集合練習和長度問題\obj\Debug\net5.0\16集合練習和長度問題.AssemblyInfo.cs
+C:\Users\jyun2\Desktop\bilibiliC初學\16集合練習和長度問題\obj\Debug\net5.0\16集合練習和長度問題.csproj.CoreCompileInputs.cache
+C:\Users\jyun2\Desktop\bilibiliC初學\16集合練習和長度問題\obj\Debug\net5.0\16集合練習和長度問題.dll
+C:\Users\jyun2\Desktop\bilibiliC初學\16集合練習和長度問題\obj\Debug\net5.0\ref\16集合練習和長度問題.dll
+C:\Users\jyun2\Desktop\bilibiliC初學\16集合練習和長度問題\obj\Debug\net5.0\16集合練習和長度問題.pdb
+C:\Users\jyun2\Desktop\bilibiliC初學\16集合練習和長度問題\obj\Debug\net5.0\16集合練習和長度問題.genruntimeconfig.cache
